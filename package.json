@@ -1,0 +1,24 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "> ## Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schillerandrew/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schillerandrew/cloud-server/issues"
+  },
+  "homepage": "https://github.com/schillerandrew/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
